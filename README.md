@@ -1,7 +1,7 @@
-  Hi, I’m Meetkumar G Patel 
-  My Student Number is 34881807 
-  I am Doing Bachelor of Information technology(IT)
-  My Major is Cybersecurity and Forencis
+  Hi, I’m Meetkumar G Patel<br>
+  My Student Number is 34881807<br> 
+  I am Doing Bachelor of Information technology(IT)<br>
+  My Major is Cybersecurity and Forencis<br>
   
 
 
