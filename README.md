@@ -143,3 +143,5 @@ Live Website: [freshgrocery.site](http://freshgrocery.site)
 Video Demonstration: [Echo360 Link](https://echo360.net.au/media/f9d2062d-4682-430b-b7c4-ea39e257ea4e/public)
 
 Additional: I make onther website for video purpose, but the steps are same as documentation. and also I attech the link of Screenshot of all steps. 
+
+I Choose this licence:Web Server © 2025 by Meet Patel is licensed under Creative Commons Attribution-ShareAlike 4.0 International
